@@ -2,7 +2,7 @@
 
 Usage:
 
- ~/Downloads/git/masteranime_downloader  ./masteranime_dl.py https://www.masterani.me/anime/watch/231-steinsgate
+~/Downloads/git/masteranime_downloader# ./masteranime_dl.py https://www.masterani.me/anime/watch/231-steinsgate
 Anime          : Steins;Gate
 No of episodes : 24
 Downloading 1_Prologue of the Beginning and Ending.mp4 from https://aika.masterani.me/v/p3RKei533Qq3WjhY/1080
